@@ -8,3 +8,5 @@ Chạy chương trình: java -jar test-mail-server-<version>.jar <args>
 
 Trong trường hợp máy Windows, bạn gõ lệnh "java" trong Command Prompt không hiểu, tham khảo ở đây: https://www.youtube.com/watch?v=d9ANxJC_P7s
 
+Ví dụ chạy trên terminal. 
+java -jar test-mail-server-1.0.jar -s 2225 -p 3335 -m ./
