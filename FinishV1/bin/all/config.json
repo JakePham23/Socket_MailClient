@@ -1,0 +1,18 @@
+{
+  "general": {
+    "username": "a@a.com",
+    "password": "minhit",
+    "sendername": "Minh Tran",
+    "mailserver": "127.0.0.1",
+    "SMTP": 2225,
+    "POP3": 3335,
+    "Autoload": 10
+  },
+
+  "filter": {
+    "project": ["ahihi@testing.com", "ahuu@testing.com"],
+    "important": ["ASAP", "urgent"],
+    "work": ["report", "meeting"],
+    "spam": ["virus", "hack", "crack"]
+  }
+}
